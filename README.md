@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Danil
 
-## I'm a student of UrFU, and I'm a BackEnd 
+## I'm a student of UrFU, and I'm teaching BackEnd 
 
 ### Connect with me:
 
