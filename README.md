@@ -5,8 +5,8 @@
 ### Connect with me:
 
 [<img align="left" alt="KlusovDanil | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
-[<img align="left" alt="KlusovDanil | Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1646729007~hmac=e693428efeab16e7d0f2ed4d04c149f7" />][instagram]
-[<img align="left" alt="KlusovDanil | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1646662390~hmac=abc87c2c956725f3afb412fdb665d96c" />][vk]
+[<img align="left" alt="KlusovDanil | Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1647541964~hmac=44574e2e0675311cfba7cd8d052e06b0" />][instagram]
+[<img align="left" alt="KlusovDanil | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1647541919~hmac=0ffc5a8a4d7203e1eb96815c49d9d052" />][vk]
 
 <br />
 
