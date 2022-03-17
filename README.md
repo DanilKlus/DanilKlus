@@ -14,7 +14,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1646662579~hmac=8bbf17ce204d5077e5be530684ee615f" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1647542006~hmac=d8ecdec7acc4ff501205f7c33db4fd5e" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
