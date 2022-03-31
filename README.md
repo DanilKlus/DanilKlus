@@ -5,7 +5,7 @@
 ### Connect with me:
 
 [<img align="left" alt="KlusovDanil | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
-[<img align="left" alt="KlusovDanil | VK" width="22px" src="https://raw.githubusercontent.com/VKCOM/icons/78120c8eb65630bf6ca9b36891feae8b61fe36fc/src/svg/56/logo_vk_56.svg" />][vk]
+[<img align="left" alt="KlusovDanil | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536582.png?token=exp=1648707161~hmac=4830e646f6328c45ddd05e75bad14943" />][vk]
 
 <br />
 
