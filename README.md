@@ -14,7 +14,7 @@
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-plain-wordmark.svg" />
+<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
